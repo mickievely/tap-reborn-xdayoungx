@@ -14,6 +14,4 @@ Join the game first, then run **`main.lua`**:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mickievely/tap-reborn-xdayoungx/main/main.lua?t="..tick(),true))()
 ```
 
-다시 실행할 때만: `_G.__XDAYOUNGX_TAP_REBORN = nil` 후 위 코드 실행.
-
 UI toggle: **RightControl**
