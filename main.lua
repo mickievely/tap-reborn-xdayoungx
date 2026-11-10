@@ -3,7 +3,7 @@ if _G.__XDAYOUNGX_TAP_REBORN then
 end
 _G.__XDAYOUNGX_TAP_REBORN = true
 
-local VERSION = "1.0.0"
+local VERSION = "1.0.1"
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

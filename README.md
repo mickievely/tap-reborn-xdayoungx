@@ -8,10 +8,12 @@ Auto tap, in-game auto clicker, anti-AFK.
 
 **[Tap Simulator REBORN](https://www.roblox.com/games/72858262610964/Tap-Simulator-REBORN)** · Place `72858262610964`
 
-Join the game first, then run:
+Join the game first, then run **`main.lua`**:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mickievely/tap-reborn-xdayoungx/main/loader.lua?t="..tick(),true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mickievely/tap-reborn-xdayoungx/main/main.lua?t="..tick(),true))()
 ```
+
+다시 실행할 때만: `_G.__XDAYOUNGX_TAP_REBORN = nil` 후 위 코드 실행.
 
 UI toggle: **RightControl**
